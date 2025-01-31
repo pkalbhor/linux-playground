@@ -5,6 +5,8 @@
 # Starts, restarts, or creates the container if necessary, then opens an interactive Bash shell.
 # Stops the container after exiting the shell to clean up resources.
 
+# For more details: https://github.com/pkalbhor/linux-playground
+
 # Define the image and container name
 IMAGE_NAME="ubuntu-bash"
 CONTAINER_NAME="ubuntu-playground"
